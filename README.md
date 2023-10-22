@@ -1,4 +1,6 @@
 # AWS Realtime Interview Questions With Answers
+> [!NOTE]  
+> Please execute each steps on your own risk. This blog is just to share the knowledge and help the peoples.
 
 ##  1. Recover an Elastic IP address
 
